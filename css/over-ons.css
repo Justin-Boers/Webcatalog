@@ -1,0 +1,82 @@
+.grid {
+    display: grid;
+    grid-template-rows: repeat(2, 1ft);
+    grid-auto-rows: minmax(100px, auto);
+    grid-template-areas:
+        "jb jb fa fa"
+    ;
+}
+
+.tile-1 {
+    grid-area: jb;
+    border: 2px solid black;
+    box-shadow: 0px 4px 6px rgb(0, 0, 0);
+    width: 600px;
+    height: 400px;
+    margin: auto;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.tile-2 {
+    grid-area: fa;
+    border: 2px solid black;
+    box-shadow: 0px 4px 6px rgb(0, 0, 0);
+    width: 600px;
+    height: 400px;
+    margin: auto;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.text {
+    text-align: center;
+    font-size: large;
+    margin-top: 30px;
+}
+
+.name {
+    margin-top: 20px;
+}
+
+.p-text {
+    margin-top: 20px;
+}
+
+@media screen and (max-width: 768px) {
+    .grid {
+        display: grid;
+        grid-template-rows: repeat(1, fr);
+        grid-auto-rows: minmax(1000px);
+        grid-template-areas:
+            "jb"
+            "fa";
+    }
+
+    .tile-1 {
+        grid-area: jb;
+    }
+
+    .tile-2 {
+        grid-area: fa;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .grid {
+        display: grid;
+        grid-template-rows: repeat(1, fr);
+        grid-auto-rows: minmax(1000px);
+        grid-template-areas:
+            "jb"
+            "fa";
+    }
+
+    .tile-1 {
+        grid-area: jb;
+    }
+
+    .tile-2 {
+        grid-area: fa;
+    }
+}

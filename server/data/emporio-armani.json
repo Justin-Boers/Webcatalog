@@ -1,0 +1,66 @@
+[
+    {
+        "id": "1",
+        "title": "Regular fit polo met logoprint",
+        "imageUrl": "//cdn-1.debijenkorf.nl/web_detail/emporio-armani-regular-fit-polo-met-logoprint/?reference=033/040/0330405013400000_pro_mod_frt_01_1108_1528_fs_1707210826.jpg",
+        "price": "\u20AC 90",
+        "sizes": ["XS", "S", "M", "L", "XL", "XXL"]
+    },
+
+    {
+        "id": "2",
+        "title": "T-shirt met logo- en backprint",
+        "imageUrl": "//cdn-1.debijenkorf.nl/web_detail/emporio-armani-t-shirt-met-logo-en-backprint/?reference=033/040/0330404981700000_pro_mod_frt_01_1108_1528_fs_1706536400.jpg",
+        "price": "\u20AC 80",
+        "sizes": ["XS", "S", "M", "L", "XL", "XXL"]
+    },
+
+    {
+        "id": "3",
+        "title": "Regular fit polo met logoprint",
+        "imageUrl": "//cdn-1.debijenkorf.nl/web_detail/emporio-armani-regular-fit-polo-met-logoprint/?reference=033/040/0330405015000000_pro_mod_frt_01_1108_1528_fs_1707210842.jpg",
+        "price": "\u20AC 85",
+        "sizes": ["XS", "S", "M", "L", "XL", "XXL"]
+    },
+
+    {
+        "id": "4",
+        "title": "T-shirt in lyocellblend met logoborduring",
+        "imageUrl": "//cdn-1.debijenkorf.nl/web_detail/emporio-armani-t-shirt-in-lyocellblend-met-logoborduring/?reference=085/931/0859316714500000_pro_mod_frt_01_1108_1528_fs_1707387797.jpg",
+        "price": "\u20AC 120",
+        "sizes": ["XS", "S", "M", "L", "XL", "XXL"]
+    },
+
+    {
+        "id": "5",
+        "title": "Trainings T-shirt met logo",
+        "imageUrl": "//cdn-1.debijenkorf.nl/web_detail/emporio-armani-trainings-t-shirt-met-logo/?reference=033/040/0330404984100000_pro_mod_frt_01_1108_1528_fs_1706536437.jpg",
+        "price": "\u20AC 70",
+        "sizes": ["XS", "S", "M", "L", "XL", "XXL"]
+    },
+
+    {
+        "id": "6",
+        "title": "Trainings T-shirt met logo",
+        "imageUrl": "//cdn-1.debijenkorf.nl/web_detail/emporio-armani-trainings-t-shirt-met-logo/?reference=033/040/0330405008200000_pro_mod_frt_01_1108_1528_fs_1707210796.jpg",
+        "price": "\u20AC 80",
+        "sizes": ["XS", "S", "M", "L", "XL", "XXL"]
+    },
+
+    {
+        "id": "7",
+        "title": "T-shirt met logoprint",
+        "imageUrl": "//cdn-1.debijenkorf.nl/web_detail/emporio-armani-t-shirt-met-logoprint/?reference=085/931/0859316654500000_pro_mod_frt_01_1108_1528_fs_1708425942.jpg",
+        "price": "\u20AC 190",
+        "sizes": ["XS", "S", "M", "L", "XL", "XXL"]
+    },
+
+    {
+        "id": "8",
+        "title": "T-shirt met logoprint",
+        "imageUrl": "//cdn-1.debijenkorf.nl/web_detail/emporio-armani-t-shirt-met-logoprint/?reference=033/040/0330404979300000_pro_mod_frt_01_1108_1528_fs_1706536438.jpg",
+        "price": "\u20AC 80",
+        "sizes": ["XS", "S", "M", "L", "XL", "XXL"]
+    }
+
+]

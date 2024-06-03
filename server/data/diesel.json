@@ -1,0 +1,66 @@
+[
+    {
+        "id": "1",
+        "title": "T-crane longsleeve met backprint",
+        "imageUrl": "//cdn-1.debijenkorf.nl/web_detail/diesel-t-crane-longsleeve-met-backprint/?reference=068/970/0689703695800000_pro_mod_frt_01_1108_1528_fs_1708338801.jpg",
+        "price": "\u20AC 195,00",
+        "sizes": ["XS", "S", "M", "L", "XL", "XXL"]
+    },
+
+    {
+        "id": "2",
+        "title": "T-Just T-shirt met logoprint",
+        "imageUrl": "//cdn-1.debijenkorf.nl/web_detail/diesel-t-just-t-shirt-met-logoprint/?reference=068/970/0689703678500000_pro_mod_frt_01_1108_1528_fs_1708506191.jpg",
+        "price": "\u20AC 95",
+        "sizes": ["XS", "S", "M", "L", "XL", "XXL"]
+    },
+
+    {
+        "id": "3",
+        "title": "T-Just T-shirt met logoprint",
+        "imageUrl": "//cdn-1.debijenkorf.nl/web_detail/diesel-t-just-t-shirt-met-logoprint/?reference=068/970/0689703684100000_pro_mod_frt_01_1108_1528_fs_1708506212.jpg",
+        "price": "\u20AC 95",
+        "sizes": ["XS", "S", "M", "L", "XL", "XXL"]
+    },
+
+    {
+        "id": "4",
+        "title": "T-Just-Od T-shirt met logo",
+        "imageUrl": "//cdn-1.debijenkorf.nl/web_detail/diesel-t-just-od-t-shirt-met-logo/?reference=068/970/0689703676100000_pro_mod_frt_01_1108_1528_fs_1706700784.jpg",
+        "price": "\u20AC 85",
+        "sizes": ["XS", "S", "M", "L", "XL", "XXL"]
+    },
+
+    {
+        "id": "5",
+        "title": "T-Just-N T-shirt met logoprint",
+        "imageUrl": "//cdn-1.debijenkorf.nl/web_detail/diesel-t-just-n-t-shirt-met-logoprint/?reference=068/970/0689703695000000_pro_mod_frt_01_1108_1528_fs_1706616236.jpg",
+        "price": "\u20AC 75",
+        "sizes": ["XS", "S", "M", "L", "XL", "XXL"]
+    },
+
+    {
+        "id": "6",
+        "title": "T-shirt met logoprint",
+        "imageUrl": "//cdn-1.debijenkorf.nl/web_detail/diesel-t-shirt-met-logoprint/?reference=068/970/0689703680100000_pro_mod_frt_01_1108_1528_fs_1706616202.jpg",
+        "price": "\u20AC 50",
+        "sizes": ["XS", "S", "M", "L", "XL", "XXL"]
+    },
+
+    {
+        "id": "7",
+        "title": "Diegor T-shirt met 3D logoprint",
+        "imageUrl": "//cdn-1.debijenkorf.nl/web_detail/diesel-diegor-t-shirt-met-3d-logoprint/?reference=068/970/0689703623800000_pro_mod_frt_01_1108_1528_1693227728.jpg",
+        "price": "\u20AC 65",
+        "sizes": ["XS", "S", "M", "L", "XL", "XXL"]
+    },
+
+    {
+        "id": "8",
+        "title": "T-Diegor-Div T-shirt met logoprint",
+        "imageUrl": "//cdn-1.debijenkorf.nl/web_detail/diesel-t-diegor-div-t-shirt-met-logoprint/?reference=068/970/0689703620800000_pro_mod_frt_01_1108_1528_1676394669.jpg",
+        "price": "\u20AC 60",
+        "sizes": ["XS", "S", "M", "L", "XL", "XXL"]
+    }
+
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "id": "1",
+        "title": "Palermo Lth Unisex sneakers",
+        "imageUrl": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_600,h_600/global/396464/07/sv01/fnd/EEA/fmt/png/Palermo-Lth-Unisex-sneakers",
+        "price": "\u20AC 89.95",
+        "sizes": ["40", "40.5", "41", "41.5", "42", "42.5"]
+    },
+
+    {
+        "id": "2",
+        "title": "Suede XL sneakers uniseks",
+        "imageUrl": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/395205/03/sv01/fnd/EEA/fmt/png/Suede-XL-sneakers-uniseks",
+        "price": "\u20AC 99.95",
+        "sizes": ["40", "40.5", "41", "41.5", "42", "42.5"]
+    },
+
+    {
+        "id": "3",
+        "title": "RS-X 3D sneakers",
+        "imageUrl": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_750,h_750/global/390025/07/sv01/fnd/EEA/fmt/png/RS-X-3D-sneakers",
+        "price": "\u20AC 54.95",
+        "sizes": ["40", "40.5", "41", "41.5", "42", "42.5"]
+    },
+
+    {
+        "id": "4",
+        "title": "PUMA x CHEETOS RS-X FH sneakers",
+        "imageUrl": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_750,h_750/global/397216/01/sv01/fnd/EEA/fmt/png/PUMA-x-CHEETOS-RS-X-FH-sneakers",
+        "price": "\u20AC 119.95",
+        "sizes": ["40", "40.5", "41", "41.5", "42", "42.5"]
+    },
+
+    {
+        "id": "5",
+        "title": "Spirex Premium sneakers",
+        "imageUrl": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_750,h_750/global/397375/01/sv01/fnd/EEA/fmt/png/Spirex-Premium-sneakers",
+        "price": "\u20AC149.95",
+        "sizes": ["40", "40.5", "41", "41.5", "42", "42.5"]
+    },
+
+    {
+        "id": "6",
+        "title": "PUMA-180 Felt sneakers",
+        "imageUrl": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_750,h_750/global/393221/01/sv01/fnd/EEA/fmt/png/PUMA-180-Felt-sneakers",
+        "price": "\u20AC 59.95",
+        "sizes": ["40", "40.5", "41", "41.5", "42", "42.5"]
+    },
+
+    {
+        "id": "7",
+        "title": "Suede Classic XXI sneakers",
+        "imageUrl": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_750,h_750/global/374915/95/sv01/fnd/EEA/fmt/png/Suede-Classic-XXI-sneakers",
+        "price": "\u20AC 89.95",
+        "sizes": ["40", "40.5", "41", "41.5", "42", "42.5"]
+    },
+
+    {
+        "id": "8",
+        "title": "CA Pro Classic sportschoenen",
+        "imageUrl": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_750,h_750/global/380190/51/sv01/fnd/EEA/fmt/png/CA-Pro-Classic-sportschoenen",
+        "price": "\u20AC 89.95",
+        "sizes": ["40", "40.5", "41", "41.5", "42", "42.5"]
+    },
+
+    {
+        "id": "9",
+        "title": "Palermo Unisex sneakers",
+        "imageUrl": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_600,h_600/global/396463/06/sv01/fnd/EEA/fmt/png/Palermo-Unisex-sneakers",
+        "price": "\u20AC109.95",
+        "sizes": ["40", "40.5", "41", "41.5", "42", "42.5"]
+    },
+
+    {
+        "id": "10",
+        "title": "PUMA x PLEASURES Spirex sneakers",
+        "imageUrl": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_600,h_600/global/396037/01/sv01/fnd/EEA/fmt/png/PUMA-x-PLEASURES-Spirex-sneakers",
+        "price": "\u20AC 149.95",
+        "sizes": ["40", "40.5", "41", "41.5", "42", "42.5"]
+    },
+
+    {
+        "id": "11",
+        "title": "CA Pro OW sneakers",
+        "imageUrl": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_600,h_600/global/393490/04/sv01/fnd/EEA/fmt/png/CA-Pro-OW-sneakers",
+        "price": "\u20AC 89.95",
+        "sizes": ["40", "40.5", "41", "41.5", "42", "42.5"]
+    },
+
+    {
+        "id": "12",
+        "title": "PUMA Morphic Athletic sneakers",
+        "imageUrl": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_600,h_600/global/395919/01/sv01/fnd/EEA/fmt/png/PUMA-Morphic-Athletic-sneakers",
+        "price": "\u20AC 89.95",
+        "sizes": ["40", "40.5", "41", "41.5", "42", "42.5"]
+    }
+
+]

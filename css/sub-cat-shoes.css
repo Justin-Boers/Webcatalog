@@ -1,0 +1,175 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.explenation {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.link {
+    color: black;
+}
+
+.link-nike{
+    color: black;
+}
+
+.nike-img {
+    width: 350px;
+    height: 300px;
+}
+
+
+.sub-img {
+    margin-top: 60px;
+    width: 350px;
+    height: 200px;
+}
+
+.grid {
+    display: grid;
+    gap: 10px;
+    margin-top: 30px;
+    text-align: center;
+    grid-template-columns: repeat(3, 1fr);
+    grid-auto-rows: minmax(100px, auto);
+    grid-template-areas:
+        "c1 c2 c3"
+}
+
+.tile-1 {
+    grid-area: c1;
+    border: 2px solid black;
+    box-shadow: 0px 4px 6px rgb(0, 0, 0);
+    width: 600px;
+    height: 400px;
+    margin: auto;
+    text-align: center;
+}
+
+.tile-2 {
+    grid-area: c2;
+    border: 2px solid black;
+    box-shadow: 0px 4px 6px rgb(0, 0, 0);
+    width: 600px;
+    height: 400px;
+    margin: auto;
+    text-align: center;
+}
+
+.tile-3 {
+    grid-area: c3;
+    border: 2px solid black;
+    box-shadow: 0px 4px 6px rgb(0, 0, 0);
+    width: 600px;
+    height: 400px;
+    margin: auto;
+    text-align: center;
+}
+
+@media screen and (max-width: 768px) {
+    .grid {
+        display: grid;
+        margin-top: 25px;
+        grid-template-rows: repeat(1, 1fr);
+        grid-auto-rows: minmax(100px, auto);
+        gap: 50px;
+        grid-template-areas: 
+        "c1"
+        "c2" 
+        "c3"
+        ;
+    }
+    
+    .tile-1{
+        grid-area: c1;
+        border: 2px solid black;
+        box-shadow: 0px 4px 6px rgb(0, 0, 0);
+        width: 600px;
+        height: 400px;
+        margin: auto;
+        text-align: center;
+    }
+    
+    .tile-2{
+        grid-area: c2;
+        border: 2px solid black;
+        box-shadow: 0px 4px 6px rgb(0, 0, 0);
+        width: 600px;
+        height: 400px;
+        margin: auto;
+        text-align: center;
+    }
+    
+    .tile-3{
+        grid-area: c3;
+        border: 2px solid black;
+        box-shadow: 0px 4px 6px rgb(0, 0, 0);
+        width: 600px;
+        height: 400px;
+        margin: auto;
+        text-align: center;
+    }
+    
+}
+
+@media screen and (max-width: 375px) {
+    .grid {
+        display: grid;
+        margin-top: 50px;
+        grid-template-rows: repeat(1, 1fr);
+        grid-auto-rows: minmax(100px, auto);
+        gap: 50px;
+        grid-template-areas: 
+        "c1"
+        "c2" 
+        "c3"
+        ;
+    }
+    
+    .tile-1{
+        grid-area: c1;
+        border: 2px solid black;
+        box-shadow: 0px 4px 6px rgb(0, 0, 0);
+        width: 300px;
+        height: 150px;
+        text-align: center;
+    }
+    
+    .tile-2{
+        grid-area: c2;
+        border: 2px solid black;
+        box-shadow: 0px 4px 6px rgb(0, 0, 0);
+        width: 300px;
+        height: 150px;
+        text-align: center;
+    }
+    
+    .tile-3{
+        grid-area: c3;
+        border: 2px solid black;
+        box-shadow: 0px 4px 6px rgb(0, 0, 0);
+        width: 300px;
+        height: 150px;
+        text-align: center;
+    }
+    
+    .nike-img {
+        width: 130px;
+        height: 110px;
+    }
+
+    .sub-img {
+        margin-top: 20px;
+        width: 130px;
+        height: 80px;
+    }
+
+    .link-nike {
+        color: black;
+        margin-bottom: 50px;
+    }
+    
+}

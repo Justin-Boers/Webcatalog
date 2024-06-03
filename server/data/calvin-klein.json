@@ -1,0 +1,66 @@
+ [
+    {
+        "id": "1",
+        "title": "Slim T-Shirt Met Logo Van Biologisch Katoen",
+        "imageUrl": "https://calvinklein-eu.scene7.com/is/image/CalvinKleinEU/J30J320806_0GN_alternate4?$main@2x$",
+        "price": "\u20AC 39,90",
+        "sizes": ["XS", "S", "M", "L", "XL", "XXL"]
+    },
+
+    {
+        "id": "2",
+        "title": "Slim Organic Cotton Logo T-Shirt",
+        "imageUrl": "https://calvinklein-eu.scene7.com/is/image/CalvinKleinEU/J30J322552_YAF_alternate4?$b2c_updp_m_mainImage_1920$",
+        "price": "\u20AC 39,90",
+        "sizes": ["XS", "S", "M", "L", "XL", "XXL"]
+    },
+
+    {
+        "id": "3",
+        "title": "CORE MONOGRAM - T-shirt print",
+        "imageUrl": "https://img01.ztat.net/article/spp-media-p1/8fe609c33d02493785697f181681ecf2/ebe5dd8c29244143afbe588beda65a58.jpg?imwidth=1800&filter=packshot",
+        "price": "\u20AC 44,95",
+        "sizes": ["XS", "S", "M", "L", "XL", "XXL"]
+    },
+
+    {
+        "id": "4",
+        "title": "Cotton Badge T-Shirt",
+        "imageUrl": "https://calvinklein-eu.scene7.com/is/image/CalvinKleinEU/J30J323482_CEZ_alternate4?$b2c_updp_m_mainImage_1920$",
+        "price": "\u20AC 34,90",
+        "sizes": ["XS", "S", "M", "L", "XL", "XXL"]
+    },
+
+    {
+        "id": "5",
+        "title": "Slim Long Sleeve Waffle T-Shirt",
+        "imageUrl": "https://calvinklein-eu.scene7.com/is/image/CalvinKleinEU/J30J323485_CEZ_alternate4?$b2c_updp_m_mainImage_1920$",
+        "price": "\u20AC 59,90",
+        "sizes": ["XS", "S", "M", "L", "XL", "XXL"]
+    },
+
+    {
+        "id": "6",
+        "title": "Slim Long Sleeve Waffle T-Shirt",
+        "imageUrl": "https://calvinklein-eu.scene7.com/is/image/CalvinKleinEU/J30J323485_XA0_alternate4?$b2c_updp_m_mainImage_1920$",
+        "price": "\u20AC 139,90",
+        "sizes": ["XS", "S", "M", "L", "XL", "XXL"]
+    },
+
+    {
+        "id": "7",
+        "title": "Oversized Monogram T-Shirt",
+        "imageUrl": "https://calvinklein-eu.scene7.com/is/image/CalvinKleinEU/J30J325201_YAF_alternate4?$b2c_updp_m_mainImage_1920$",
+        "price": "\u20AC 49,90",
+        "sizes": ["XS", "S", "M", "L", "XL", "XXL"]
+    },
+
+    {
+        "id": "8",
+        "title": "Slim Logo T-Shirt",
+        "imageUrl": "https://calvinklein-eu.scene7.com/is/image/CalvinKleinEU/J30J322344_XA0_alternate4?$b2c_updp_m_mainImage_1920$",
+        "price": "\u20AC 39,90",
+        "sizes": ["XS", "S", "M", "L", "XL", "XXL"]
+    }
+
+]

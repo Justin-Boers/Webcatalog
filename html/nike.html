@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" type="image/x-icon" href="/afbeeldingen/afbeelding.png" />
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/css/shoe.css">
+    <title>Nike</title>
+</head>
+
+<body>
+    <header>
+        <div>
+            <img src="/image's/afbeelding.png" class="logo" alt="Omschrijving van de afbeelding">
+            <h1 class="titel">Kijkshop</h1>
+        </div>
+        <div class="navigatie-balk">
+            <a href="/html/home.html">Home</a>
+            <a href="/html/categorie.html">Category</a>
+            <a href="/over ons/over-ons.html">About us</a>
+            <a href="/html/contact.html">Contact</a>
+        </div>
+    </header>
+
+    <main>
+
+        <div class="video">
+            <video src="/videos/Only Basketball _ Nike.mp4" muted autoplay loop></video>
+            <div class="text-1">
+                <h2>Nike</h2>
+            </div>
+
+        </div>
+
+
+
+
+        <div class="text-2">
+            <p>
+                You are now on the Nike page where all shoes of the brand Nike are listed. If you want to go back, you
+                need to go back to categories</p>
+        </div>
+        
+        <br>
+        <br>
+        <br>
+
+        <div class="search-container">
+            <div class="text-3">
+                <h2>Type something to search</h2>
+            </div>
+            <div class="searchbar">
+                <input type="text" id="keyword" onkeyup="searchItems()" placeholder="Search...">
+            </div>
+        </div>
+        
+        <div class="container" id="nike">
+            <!-- Cards will be added dynamically here -->
+        </div>
+    </main>
+
+    <footer>
+
+    </footer>
+
+    <script src="/javascript/nike.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,140 @@
+.grid {
+    display: grid;
+    margin-top: 80px;
+    grid-template-columns: repeat(4, 1fr);
+    grid-auto-rows: minmax(100px, auto);
+    grid-template-areas:
+        "im-1 im-2 im-3 im-4"
+}
+
+.text{
+    text-align: center;
+    font-size: large;
+    margin-top: 85px;
+}
+
+.Image-1{
+    grid-area: im-1;
+}
+
+.Image-2{
+    grid-area: im-2;
+}
+
+.Image-3{
+    grid-area: im-3;
+}
+
+.Image-4{
+    grid-area: im-4;
+}
+
+
+.product{
+    width: 300px;
+    height: 300px;
+}
+
+.item-shoe{
+    margin-left: 100px;
+    margin-top: 60px;
+    width: 30vh;
+    height: 22vh;
+}
+
+.item-shirt{
+    margin-left: 100px;
+    width: 30vh;
+    height: 35vh;
+}
+
+@media screen and (max-width: 768px) {
+    .grid{
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-areas: 
+        "im-1 im-2" 
+        "im-3 im-4"
+        ;
+    }
+    .Image-1{
+        grid-area: im-1;
+    }
+    
+    .Image-2{
+        grid-area: im-2;
+    }
+    
+    .Image-3{
+        grid-area: im-3;
+    }
+    
+    .Image-4{
+        grid-area: im-4;
+    }
+    
+    .product{
+        width: 350px;
+        height: 350px;
+    }
+
+
+    .item-shoe{
+        margin-left: 70px;
+        margin-top: 60px;
+        width: 30vh;
+        height: 22vh;
+    }
+    
+    .item-shirt{
+        margin-left: 70px;
+        width: 30vh;
+        height: 35vh;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .grid{
+        grid-template-columns: repeat(1, 1fr);
+        text-align: center;
+        grid-template-areas: 
+        "im-1" 
+        "im-2" 
+        "im-3" 
+        "im-4"
+        ;
+    }
+
+    .item-shoe{
+        margin-left: 50px;
+        margin-top: 60px;
+        width: 30vh;
+        height: 22vh;
+    }
+    
+    .item-shirt{
+        margin-left: 50px;
+        width: 30vh;
+        height: 35vh;
+    }
+
+    .Image-1{
+        grid-area: im-1;
+    }
+    
+    .Image-2{
+        grid-area: im-2;
+    }
+    
+    .Image-3{
+        grid-area: im-3;
+    }
+    
+    .Image-4{
+        grid-area: im-4;
+    }
+    
+    .product{
+        width: 200px;
+        height: 200px;
+    }
+}
